@@ -1,0 +1,4 @@
+# FootbalData
+FootballData is a project that tries to employ Machine Learning algorithms in order to predict the result of new fixtures.
+It is concentrated arround the bet for first half/full time more precisely Home/Draw and Away/Draw which has a probability of 6.4%.
+The main features that are used for the ML algorithms are statistics for the home team and away team for half time and full time based on the last 5 or 10 matches.
